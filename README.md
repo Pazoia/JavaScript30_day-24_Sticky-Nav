@@ -7,5 +7,5 @@ always remain on the top of the page.
 
 Features:  
 * Nav bar will always remain visible on the top of the page.
-* There's an animation that slides in from the left side once  
-scrolled past the top height of the Nav bar on the page.
+* Logo animation that slides in from the left side once  
+the Nav bar hits the top of the browser.
